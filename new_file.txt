@@ -1,1 +1,3 @@
 Here is a new plain text file.
+
+Let's add some more text to the file.
