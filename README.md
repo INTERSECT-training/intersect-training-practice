@@ -1,7 +1,7 @@
-# INTERSECT Bootcamp 2023 - Day 2
+# INTERSECT Bootcamp 2024 - Day 2
 
-This repository is for use by students on Day 2 of the 2023 INTERSECT Bootcamp,
-held in Princeton, NJ, July 10-14.
+This repository is for use by students on Day 2 of the 2024 INTERSECT Bootcamp,
+held in Princeton, NJ, July 15-19.
 
 ## Funding
 
