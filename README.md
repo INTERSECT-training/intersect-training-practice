@@ -1,4 +1,4 @@
-# INTERSECT Bootcamp 2024 - Practice Repository
+# INTERSECT Bootcamp - Practice Repository
 
 This repository is for use by participants in the INTERSECT Bootcamp series.
 The dates so far have been:
