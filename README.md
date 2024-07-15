@@ -1,7 +1,13 @@
-# INTERSECT Bootcamp 2024 - Day 2
+# INTERSECT Bootcamp 2024 - Practice Repository
 
-This repository is for use by students on Day 2 of the 2024 INTERSECT Bootcamp,
-held in Princeton, NJ, July 15-19.
+This repository is for use by participants in the INTERSECT Bootcamp series.
+The dates so far have been:
+
+| Event | Dates | Location |
+| ----- | ------| -------- |
+| Bootcamp 2023 | July 10-24, 2023 | Jadwin Hall, Princeton, NJ |
+| Bootcamp 2024 | July 15-19, 2024 | Lewis Library, Princeton, NJ |
+
 
 ## Funding
 
