@@ -5,7 +5,7 @@ The dates so far have been:
 
 | Event | Dates | Location |
 | ----- | ------| -------- |
-| Bootcamp 2023 | July 10-24, 2023 | Jadwin Hall, Princeton, NJ |
+| Bootcamp 2023 | July 10-14, 2023 | Jadwin Hall, Princeton, NJ |
 | Bootcamp 2024 | July 15-19, 2024 | Lewis Library, Princeton, NJ |
 
 
